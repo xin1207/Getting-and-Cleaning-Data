@@ -40,6 +40,5 @@ The original data set included the following files:
 6. training.subject : subject_train.txt data frame
 7. activity_labels	: activity_labels.txt data frame
 8. features	: features.txt data frame
-merged.x , merged.y , merged.subject : merged (X_test,X_train) , (Y_test,Y_train) , (subject_test,subject_train) data frames
-
-tidy : final required tidy data set containing 180 observations
+9. merged.x , merged.y , merged.subject : merged (X_test,X_train) , (Y_test,Y_train) , (subject_test,subject_train) data frames
+10.tidy : final required tidy data set containing 180 observations
